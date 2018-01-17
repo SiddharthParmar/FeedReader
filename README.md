@@ -13,3 +13,6 @@ This is a web-based application that reads RSS feeds and has Jasmine allowing yo
 * Click on any link to go to the article page.
 * Use the menu button to select a category for your feed and click on any that may interest you
 
+## APIs Used:
+
+* https://rsstojson.udacity.com/parseFeed
